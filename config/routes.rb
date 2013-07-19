@@ -3,7 +3,7 @@ Mentor::Application.routes.draw do
 get 'ask' => 'pages#ask'
 get 'suggest' => 'pages#suggest'
 
-root :to => 'pages#home'
+root :to => 'pages#activities'
 
 
   # The priority is based upon order of creation: first created -> highest priority.

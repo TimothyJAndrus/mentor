@@ -1,5 +1,5 @@
 class PagesController < ApplicationController
-  def home
+  def activities
   end
 
   def ask
